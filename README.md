@@ -1,3 +1,7 @@
+#README Data Og Rapportering
+Vores hjemmeside bygger på dette repository [_config.yml](https://github.com/DataOgDigitalisering/dokumentation/blob/udv_%C3%A6ndrerStruktur/_config.yml). Dette var oprindeligt lokaliseret hos MedTekHuset/git-wiki-theme@master, men vi tog der herover for at have mere kontrol over det. Her kan man ændre nogle mere grundlæggende ting ift. hjemmesidens udtryk og opbygning.
+
+
 # git-wiki
 
 Git-wiki is a **modular and full featured wiki** powered by Git, [GitHub](https://pages.github.com/)/[Gitlab](https://about.gitlab.com/product/pages/) Pages and pull requests!
