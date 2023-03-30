@@ -32,7 +32,7 @@
     {% capture my_toc %}{% endcapture %}
 <!--Fjernet "Contents:" fra toppen af TOC [NS]     
     {% assign title = include.title | default: "Contents:" %} -->
-    {% assign title = include.title | default: "" %}
+    {% assign title = include.title | default: "Indholdsfortegnelse" %}
     {% assign minHeaders = include.minHeaders | default: 1 %}
     {% assign orderedList = include.ordered | default: false %}
     {% assign minHeader = include.h_min | default: 1 %}
