@@ -5,10 +5,14 @@
     <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/wiki/_new">Add new</a></span>
     <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/wiki/{{url | remove: '.html' | append: ''}}/_edit">Edit</a></span>
     {% endif %}
+    
+    {% if site.disable_historySource != true %}
 
     <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/wiki/{{url | remove: '.html' | append: ''}}/_history">History</a></span>
 
     <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/wiki/{{url | remove: '.html' | append: '.md'}}/">Source</a></span>
+    {% endif %}
+
     {% else %}
 
     {% if site.disable_edit != true %}
