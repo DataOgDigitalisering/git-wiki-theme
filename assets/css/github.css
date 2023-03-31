@@ -966,7 +966,7 @@ body>.wrapper .pl-12 {
 }
 
 .vertical-menu a {
-  background-color: #00355F  !important; /* Grey background color #6c6c79 */
+  background-color: #6c6c79  !important; /* Grey background color #6c6c79 */
   color: white !important; /* Black text color */
   display: block; /* Make the links appear below each other */
   padding: 12px !important; /* Add some padding */
@@ -976,16 +976,16 @@ body>.wrapper .pl-12 {
 }
 
 .vertical-menu a:hover {
-  background-color: #00355F !important; /* Dark grey background on mouse-over 3e3e45 */
+  background-color: #3e3e45 !important; /* Dark grey background on mouse-over 3e3e45 */
 }
 
 .vertical-menu a.active {
-  background-color: #00355F !important; /* Add a green color to the "active/current" link  3e3e45 */
+  background-color: #3e3e45 !important; /* Add a green color to the "active/current" link  3e3e45 */
  /* color: white; */
 }
 
 .collapsible {
-  background-color: #00355F;
+  background-color: #6c6c79;
   color: white;
   cursor: pointer;
   padding: 12px;
@@ -997,7 +997,7 @@ body>.wrapper .pl-12 {
 }
 
 .active, .collapsible:hover {
-  background-color: #00355F;
+  background-color: #3e3e45;
 }
 
   
