@@ -967,12 +967,12 @@ body>.wrapper .pl-12 {
 
 .vertical-menu a {
   background-color: #E6EAEE  !important; /* Grey background color #6c6c79 */
+  font-weight: normal !important;
   color: black !important; /* white */
   display: block; /* Make the links appear below each other */
   padding: 12px !important; /* Add some padding */
   text-decoration: none !important; /* Remove underline from links */
   font-size: 15px !important;
-  font-weight: normal;
   cursor: pointer !important;  
 }
 
