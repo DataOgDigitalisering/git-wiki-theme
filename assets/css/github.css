@@ -1019,5 +1019,5 @@ body>.wrapper .pl-12 {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
-  background-color: #F0F2F4;
+  background-color: #F2F2F2; /*#F0F2F4;*/
 }
