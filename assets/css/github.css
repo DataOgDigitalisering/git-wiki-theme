@@ -966,7 +966,7 @@ body>.wrapper .pl-12 {
 }
 
 .vertical-menu a {
-  background-color: #047F79 !important; /* Grey background color #6c6c79 #E6EAEE */
+  background-color: #015087 !important; /* Grey background color #6c6c79 #E6EAEE */
   color: white !important; /* white black*/
   display: block; /* Make the links appear below each other */
   padding: 12px !important; /* Add some padding */
@@ -985,8 +985,8 @@ body>.wrapper .pl-12 {
 }
 
 .collapsible {
-  background-color: #047F79; /*#E6EAEE;*/
-  color: black;/* white black*/
+  background-color: #015087; /*#E6EAEE;*/
+  color: white;/* white black*/
   cursor: pointer;
   padding: 12px;
   width: 100%;
